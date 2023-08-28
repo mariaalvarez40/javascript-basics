@@ -1,16 +1,18 @@
 # Javascript Basics
 
-Javascript the most popular language used in the internet. There are over 1.6 billion web sites in the world, and JavaScript is used on 95% of them. In this course you will fully master and be super confident when working with Javascript. With Javascript you can build both server side and client side application enabling you one single language for the entire stack.
+JavaScript is a versatile programming language that can be used to create interactive web pages, mobile applications, and server-side scripts. It is a popular choice for both beginners and experienced developers, thanks to its simple syntax and powerful features.
 
-Learning...
+# Topics
 
-- Advanced Javascript Language including
-  - Promises, Generators and Async Await
-  - Type Coercion
-  - Data structures
-  - Module system
-  - and more
-- Node Package Manager
-- Javascript Testing
-- The basics of Express JS
-- The basics React JS
+1. Advanced Javascript Language including
+
+- Promises, Generators and Async Await
+- Type Coercion
+- Data structures
+- Module system
+- and more!
+
+2. NPM (Node Package Manager)
+3. Javascript Testing
+4. The basics of Express JS
+5. The basics React JS
