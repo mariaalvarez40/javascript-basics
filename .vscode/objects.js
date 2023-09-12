@@ -1,6 +1,8 @@
 /* 
-1) In JavaScript, an object is a fundamental data type that represents a collection of key-value pairs.
-2) Objects can hold various data types as values, including numbers, strings, other objects, functions, and more.
+KEY POINTS 
+
+1. In JavaScript, an object is a fundamental data type that represents a collection of key-value pairs.
+2. Objects can hold various data types as values, including numbers, strings, other objects, functions, and more.
 */ 
 
 // Example of Object Literal Notation
